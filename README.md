@@ -1,2 +1,2 @@
 # Vido
-tinghua_university product
+TingHua_University Product
